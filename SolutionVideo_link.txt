@@ -1,0 +1,18 @@
+-----------------------------------------------------------------------
+
+
+		The Video link to the all the solution queries is 
+	"https://www.loom.com/share/6fc02ee2a5fe4840a922fc8e9b2f4577"
+
+-----------------------------------------------------------------------
+ 
+My experience working on this project:
+
+- I got the opportunity to revise all my Sql concepts, and was able to use them.
+
+- I got difficulty using concepts like window functions and cte's. However, after this I'm quite confident.
+
+-----------------------------------------------------------------------
+
+
+						Thankyou
